@@ -66,8 +66,6 @@ https://private-user-images.githubusercontent.com/84017071/412108806-03edce57-01
 *Vídeo demonstrativo mostrando a interatividade e funcionalidades completas do dashboard.*
 
 
-https://github.com/enps2015/dashboardSpotfy/issues/1
-
 ## 🎯 Desafios e Soluções
 
 ### Desafios Encontrados
@@ -152,18 +150,16 @@ http://localhost:5001
   - Segmentação de público-alvo
   - Otimização de meta-dados
 
-## 📝 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ## 👨‍💻 Autor
 
-Desenvolvido por [Eric Pimentel](https://github.com/enps2015)
+---
 
-## 📞 Contato
+**Desenvolvido por:**
 
-- LinkedIn: [Eric Pimentel](https://www.linkedin.com/in/eric-np-santos/)
-- GitHub: [@enps2015](https://github.com/enps2015)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-np-santos/) Eric Pimentel 
+
+**Que a Força dos Dados esteja com você! 🚀 ✨** 
 - Instagram: [@eric.n.pimentel](https://www.instagram.com/eric.n.pimentel/)
 
 ---
