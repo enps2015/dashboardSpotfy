@@ -47,7 +47,7 @@ O dashboard apresenta diversas visualizações interativas que permitem explorar
 
 ## 📊 Capturas de Telas
 
-<video controls src="captura_telas/Gravação da tela de.2025.02.11.mp4" title="Title"></video>
+<video controls src="captura_telas/Gravação da tela de.2025.02.11.mp4" title="Video de Tela"></video>
 
 ![Tela 01](captura_telas/captura01.png)
 
