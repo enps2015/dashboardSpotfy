@@ -45,6 +45,11 @@ O dashboard apresenta diversas visualizações interativas que permitem explorar
 - Análise temporal de tendências
 - Fatores de sucesso para playlists
 
+## 📊 Capturas de Telas
+
+
+
+
 ## 🎯 Desafios e Soluções
 
 ### Desafios Encontrados
