@@ -1,0 +1,12 @@
+flask
+pandas
+seaborn
+plotly
+numpy
+gunicorn
+kaggle
+python-dotenv
+requests
+scipy
+kagglehub
+kaleido  # Para exportar gráficos Plotly como imagens
