@@ -47,7 +47,13 @@ O dashboard apresenta diversas visualizações interativas que permitem explorar
 
 ## 📊 Capturas de Telas
 
+[Gravação de Tela](<captura_telas/Gravação da tela de.2025.02.11.webm>)
 
+![Tela 01](captura_telas/captura01.png)
+
+![Tela 02](captura_telas/captura02.png)
+
+![Tela 03](captura_telas/captura03.png)
 
 
 ## 🎯 Desafios e Soluções
