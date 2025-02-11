@@ -45,16 +45,28 @@ O dashboard apresenta diversas visualizações interativas que permitem explorar
 - Análise temporal de tendências
 - Fatores de sucesso para playlists
 
-## 📊 Capturas de Telas
+# 📊 Capturas de Telas
 
-<video controls src="captura_telas/Gravação da tela de.2025.02.11.mp4" title="Video de Tela"></video>
+### Visão Geral do Dashboard
+![Captura 1](captura_telas/captura01.png)
+*Página inicial do dashboard mostrando o header personalizado e a navegação intuitiva com tema do Spotify.*
 
-![Tela 01](captura_telas/captura01.png)
+### Análises e Visualizações
+![Captura 2](captura_telas/captura02.png)
+*Seção de visualizações interativas com gráficos detalhados sobre popularidade, gêneros e tendências musicais.*
 
-![Tela 02](captura_telas/captura02.png)
+### Insights e Recomendações
+![Captura 3](captura_telas/captura03.png)
+*Área de insights de negócio e recomendações estratégicas baseadas na análise dos dados.*
 
-![Tela 03](captura_telas/captura03.png)
+### Demonstração em Vídeo
 
+https://github.com/enps2015/dashboardSpotfy/issues/1
+
+*Vídeo demonstrativo mostrando a interatividade e funcionalidades completas do dashboard.*
+
+
+https://github.com/enps2015/dashboardSpotfy/issues/1
 
 ## 🎯 Desafios e Soluções
 
