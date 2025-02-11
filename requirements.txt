@@ -9,4 +9,5 @@ python-dotenv
 requests
 scipy
 kagglehub
-kaleido  # Para exportar gráficos Plotly como imagens
+kaleido  
+gunicorn
