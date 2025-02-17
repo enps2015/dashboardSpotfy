@@ -160,7 +160,4 @@ http://localhost:5001
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-np-santos/) Eric Pimentel 
 
 **Que a Força dos Dados esteja com você! 🚀 ✨** 
-- Instagram: [@eric.n.pimentel](https://www.instagram.com/eric.n.pimentel/)
 
----
-> "Que a Força dos Dados esteja com você!"
